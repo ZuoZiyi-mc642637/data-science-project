@@ -32,3 +32,33 @@ Zuo Ziyi's contribution focuses on selecting evidence and translating team analy
 
 ## Presentation work
 Zuo Ziyi prepared the team progress slides and introductory video for course submission. Those files are not publicly distributed in this portfolio.
+
+## Scatterplot zone key
+
+Point labels use the following IDs from the frozen analysis table.
+
+| Plot ID | Statistical zone name |
+|---|---|
+| 1 | 青洲區 |
+| 2 | 台山區 |
+| 3 | 黑沙環及祐漢區 |
+| 4 | 黑沙環新填海區 |
+| 5 | 望廈及水塘區 |
+| 6 | 筷子基區 |
+| 7 | 林茂塘區 |
+| 8 | 高士德及雅廉訪區 |
+| 9 | 新橋區 |
+| 10 | 沙梨頭及大三巴區 |
+| 11 | 荷蘭園區 |
+| 12 | 東望洋區(松山區) |
+| 13 | 新口岸區 |
+| 14 | 外港及南灣湖新填海區 |
+| 15 | 中區 |
+| 16 | 下環區 |
+| 17 | 南西灣及主教山區 |
+| 18 | 海洋及小潭山區 |
+| 19 | 氹仔中心區 |
+| 20 | 大學及北安灣區 |
+| 21 | 北安及大潭山區 |
+| 22 | 氹仔舊城及馬場區 |
+| 23 | 路環區 |
