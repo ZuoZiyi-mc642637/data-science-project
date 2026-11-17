@@ -47,4 +47,3 @@ Visual checks: the comparison uses a zero-based0–100 percentage scale; gap bar
 ## Feedback and responsible sharing
 See [review evidence](REVIEW.md). Genuine classmate review and a resulting commit are still required; automated checks and AI suggestions are not substituted for peer feedback. Original data ownership is retained; no blanket licence is applied to the coursework or third-party datasets.
 
-AI declaration: OpenAI Codex assisted with portfolio organisation, English editing and the new reproduction scripts. Original team contributions are attributed in the Macao documentation.

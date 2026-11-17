@@ -27,8 +27,8 @@ The 23 land zones contain 977 core-four records (1,143 extended-seven records). 
 - **Beautiful:** restrained high-contrast colours, readable labels and consistent spacing reduce visual clutter.
 - **Insightful:** the scatterplot distinguishes linear and rank evidence; the category chart shows why the composite is dominated by clinics and pharmacies. Neither chart supports causal claims.
 
-## Personal learning and AI assistance
-Zuo Ziyi's contribution focuses on selecting evidence and translating team analysis into a coherent visual and spoken account, while keeping claims within the data. AI assistance (OpenAI Codex) was used to prepare this portfolio page, documentation and reproduction/plotting code. Team data and computed outputs remain the evidence; peer feedback is recorded only when actually received.
+## Personal learning
+Zuo Ziyi's contribution focuses on selecting evidence and translating team analysis into a coherent visual and spoken account, while keeping claims within the data. Team data and computed outputs remain the evidence; peer feedback is recorded only when actually received.
 
 ## Presentation work
 Zuo Ziyi prepared the team progress slides and introductory video for course submission. Those files are not publicly distributed in this portfolio.

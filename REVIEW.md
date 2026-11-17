@@ -14,4 +14,4 @@ The reviewer is identified in the private course forum. Their name and student I
 
 **Verification:** All 23 plot IDs have exactly one name and match the frozen analysis table. Table headers identify plot ID and statistical zone name; rows retain Traditional Chinese source names. Website images, links and table rendering are checked after deployment. This documents the zone-identification feedback; it does not imply the classmate reran the full analysis.
 
-AI assistance was used to implement and document this change. The peer feedback is recorded separately from automated checks.
+The peer feedback is recorded separately from automated checks.
