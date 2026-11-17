@@ -1,11 +1,11 @@
-# Macao public facilities and older residents — ongoing team project
+# Macao public facilities and older residents — ongoing six-person team project
 
 **Research question:** Across Macao's 23 land statistical zones, is the share of residents aged 65+ associated with core-four facility density?
 
 ## Scope and attribution
 Class M · Team01, CISC7204, University of Macau, 2026/27 Semester1. Population: 2021; facility snapshot retrieved by the team on 29 October2026. Core four: older-person services, pharmacies, clinics and parks/gardens. Extended seven adds Chinese pharmacies, health centres and hospitals for sensitivity analysis.
 
-Team roles: Zhang Chengyi — coordination; Miao Lingling — minutes and liaison; Ding Huiyuan — data/indicators/statistical analysis; Duan Qingru — spatial processing and mapping; Wang Tingyue — interpretation and quality review; Zuo Ziyi — presentation integration, slides, introductory video and delivery. The table originates from the team's analyst handover. This portfolio analysis script regenerates selected summaries from that derived table; it does not reconstruct the complete original GIS extraction pipeline.
+Team roles: Member A — coordination; Member B — minutes and liaison; Member C — data/indicators/statistical analysis; Member D — spatial processing and mapping; Member E — interpretation and quality review; Zuo Ziyi — presentation integration, slides, introductory video and delivery. The table originates from the team's analyst handover. This portfolio analysis script regenerates selected summaries from that derived table; it does not reconstruct the complete original GIS extraction pipeline.
 
 ## Data sources and use
 - [DSEC population database](https://www.dsec.gov.mo/CensosWebDB/): 2021 population and older-resident totals.
