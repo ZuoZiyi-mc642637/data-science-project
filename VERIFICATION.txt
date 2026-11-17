@@ -1,0 +1,9 @@
+Reproduction checked17 November2026.
+Python 3.12.4; pandas 2.2.2; numpy 1.26.4; scipy 1.13.1; matplotlib 3.8.4
+python analysis_movie.py: passed; two plots and signed-gap table generated.
+python macao/analysis.py: passed; 23 unique land zones, positive areas, elderly-share identity and facility-density identity checked;977 core records;1143 extended records.
+Pearson r=0.4110142216,p=0.0513763136;Spearman rho=0.4555335968,p=0.0289348912.
+These match the provided team statistics. Scripts read frozen included tables, not live endpoints. Full original GIS extraction and every module notebook are outside this verification.
+Peer feedback: pending genuine classmate review, not certified by automated checks.
+
+Original movie Notebook and both tourism proposal Notebooks: all code cells ran in isolated copies using an IPython shell (inline magic omitted with headless Matplotlib); input reads and calculations passed. Tourism r=0.792289. Original repository files were not overwritten. This is not a fresh-environment package-install test.

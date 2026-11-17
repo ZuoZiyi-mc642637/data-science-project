@@ -1,0 +1,11 @@
+{
+  "zones": 23,
+  "core_records": 977,
+  "extended_records": 1143,
+  "pearson_r": 0.41101422159151535,
+  "pearson_p_two_sided": 0.05137631355189959,
+  "spearman_rho": 0.45553359683794475,
+  "spearman_p_two_sided": 0.028934891239747636,
+  "population_year": 2021,
+  "facility_snapshot_year": 2026
+}
